@@ -13,3 +13,12 @@
   font-size: 108px;
   text-shadow: 4px 4px black;
 }
+
+.login {
+  padding-top: 4px;
+  float: right;
+}
+
+.search {
+  padding: 8% 7% 0% 7%;
+}
