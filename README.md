@@ -1,5 +1,13 @@
 # Movie_Ratings
 This is my stuff
-# This is my stuff
-## This is some more of my stuff
-* This is all I have
+## Description
+## Technology used 
+* Git Bash
+* VS Code
+* HTML
+* CSS
+* Bootstrap
+* GitHub
+## Icebox
+* Movie/show list
+* Friend's ratings page
