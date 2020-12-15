@@ -1,6 +1,6 @@
 # Movie_Ratings
-This is my stuff
 ## Description
+This is my stuff
 ## Technology used 
 * Git Bash
 * VS Code
