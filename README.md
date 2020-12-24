@@ -1,6 +1,6 @@
 # Movie_Ratings
 ## Description
-This is my stuff
+A movie/show rating web application.
 ## Technology used 
 * Git Bash
 * VS Code
